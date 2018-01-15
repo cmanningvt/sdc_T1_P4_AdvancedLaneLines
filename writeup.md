@@ -113,11 +113,11 @@ I did this in lines 140 through 156 in my code in class Line(). This is done in 
 
 I implemented this step in the function `draw_lines()`.  Here is an example of my result on a test image:
 
-![alt text][image6]
+![alt text][image7]
 
 I then undistort that image using 'perspective_untransform()' and then combine the two images using 'weighted_img()'.
 
-![alt text][image7]
+![alt text][image6]
 
 ---
 
